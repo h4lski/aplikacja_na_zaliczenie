@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.edu.eu.organizer_na_zaliczenie.add_notatki">
+
+    <item
+        android:id="@+id/action_add_note"
+        android:tint="@color/colorWhite"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        android:title="add"
+        app:showAsAction="ifRoom" />
+
+</menu>

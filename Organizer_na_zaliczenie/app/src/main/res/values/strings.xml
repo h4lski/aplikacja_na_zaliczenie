@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="language">Wybór języka</string>
+    <string name="section_format">Wybór języka</string>
+    <string name="notatki">Notatki</string>
+    <string name="kody">Kody</string>
+    <string name="adresy">Adresy</string>
+    <string name="linki">Linki</string>
+    <string name="title_activity_add_notatki">Wpisz swoją notkę</string>
+    <string name="title_activity_add_adres">Wpisz i zapamiętaj adres</string>
+    <string name="title_activity_add_kod">Zapamiętaj kod</string>
+    <string name="title_activity_add_link">Zapamiętaj link</string>
+    <string name="add_notatki">Dodaj</string>
+
+
+    <string name="go_to_settings">go to settings</string>
+    <string name="lined_paper">Lined paper</string>
+    <string name="lined_paper_desc">Draw baselines</string>
+
+</resources>
